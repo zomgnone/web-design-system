@@ -1,0 +1,97 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 10%;
+}
+
+.section {
+  border: 2px solid darkgray;
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.color-sample {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.color-violet {
+  color: #000;
+  background-color: #ed72fa;
+}
+
+.color-yellowgreen {
+  color: #000;
+  background-color: #d0fa72;
+}
+
+.color-cornflowerblue {
+  color: #000;
+  background-color: #729afa;
+}
+
+.color-khaki {
+  color: #000;
+  background-color: #fad272;
+}
+.color-mediumslateblue {
+  color: #000;
+  background-color: #9c72fa;
+}
+
+.font-sample {
+  border: 1px solid red;
+  display: inline-block;
+  width: 40%;
+  margin: 10px auto;
+}
+
+.font-title {
+  font-size: 24px;
+}
+
+.robotomono {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.mukta {
+  font-family: 'Mukta', sans-serif;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text-sample h1 {
+  font-size: 32px;
+  font-weight: 700;
+  font-family: 'Mukta', sans-serif;
+}
+
+.text-sample h2 {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Mukta', sans-serif;
+}
+
+.text-sample p {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.text-sample #code-font p{
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto Mono', monospace;
+}
